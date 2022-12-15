@@ -1,0 +1,8 @@
+test_data.csv
+train_data.csv
+train_labels.csv
+*.ftr
+*.csv
+*.png
+
+processed_data/*
