@@ -6,3 +6,5 @@ train_labels.csv
 *.png
 
 processed_data/*
+
+*.json
