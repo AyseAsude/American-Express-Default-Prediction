@@ -4,3 +4,5 @@ train_labels.csv
 *.ftr
 *.csv
 *.png
+
+processed_data/*
