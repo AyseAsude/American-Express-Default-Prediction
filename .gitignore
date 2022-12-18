@@ -12,3 +12,5 @@ processed_data/*
 kaggle_test.ipynb
 
 *.h5
+
+*.txt
